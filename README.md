@@ -17,7 +17,7 @@
 - **Libraries/Frameworks:** TensorFlow, Keras, React
 
 ### 📊 GitHub Stats
-![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-ripti&show_icons=true&theme=radical)
 
 ### 🏆 My Achievements
 - **Top 10%** in [Coding Challenge X](https://www.example.com) for innovative algorithmic solutions.
