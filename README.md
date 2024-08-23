@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 About Me
-- 🎓 **Fresher (Class of 2024)** from Varanasi, Uttar Pradesh, with a strong interest in algorithmic problem-solving and software development.
+- 🎓 **Fresher** from Varanasi, Uttar Pradesh, with a strong interest in algorithmic problem-solving and software development.
 - 🧠 **Passionate about coding challenges**, especially those involving **number manipulation**, **statistics**, and **algorithm design**.
 - 🔬 **Final Year Project:** [Toxic Comment Analyzer](https://github.com/your-repo-link) using RNN LSTM to combat harmful online interactions.
 - 🌱 Currently improving my **C++** skills and diving deeper into **data structures and algorithms**.
