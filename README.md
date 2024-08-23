@@ -1,4 +1,6 @@
 
+![tripti](https://github.com/user-attachments/assets/ccd2d87c-fa0b-46fe-8ef9-4c7315f853fa)
+
 # 👋 Hi, I'm Tripti Patel!
 
 🚀 **Aspiring Software Developer | Competitive Programmer | Tech Enthusiast**
