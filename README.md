@@ -74,7 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="300" />
-  <br>
   Thanks for visiting! Feel free to explore and connect. 😄
 </p>
