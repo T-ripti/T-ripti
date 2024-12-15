@@ -1,56 +1,53 @@
 
 ![tripti](https://github.com/user-attachments/assets/ccd2d87c-fa0b-46fe-8ef9-4c7315f853fa)
 
-# 👋 Hi, I'm Tripti Patel!
+# 👋🚀 Tripti Patel | Associate System Engineer Aspirant 🚀
+Software Developer | Problem Solver | Tech Enthusiast
+A motivated Software Developer with a strong foundation in programming, algorithms, and system design. Passionate about solving real-world problems and building efficient, scalable applications.
+📫 Connect with Me
 
-🚀 **Aspiring Software Developer | Competitive Programmer | Tech Enthusiast**
 
----
 
-### 🔍 About Me
-- 🎓 **Fresher** from Varanasi, Uttar Pradesh, with a strong interest in algorithmic problem-solving and software development.
-- 🧠 **Passionate about coding challenges**, especially those involving **number manipulation**, **statistics**, and **algorithm design**.
-- 🔬 **Final Year Project:** [Toxic Comment Analyzer](https://github.com/your-repo-link) using RNN LSTM to combat harmful online interactions.
-- 🌱 Currently improving my **C++** skills and diving deeper into **data structures and algorithms**.
-  
-### 🛠️ Languages & Tools
-- **Languages:** C++, Python, JavaScript
-- **Technologies:** Git, GitHub, Docker
-- **Libraries/Frameworks:** TensorFlow, Keras, React
 
-### 📊 GitHub Stats
-![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-ripti&show_icons=true&theme=radical)
 
-### 🏆 My Achievements
-- **Top 10%** in [Coding Challenge X](https://www.example.com) for innovative algorithmic solutions.
-- **Completed** [100 Days of Code](https://www.example.com) challenge, focusing on advanced C++ and data structures.
-  
-### 📚 Recent Projects
-- **[Toxic Comment Analyzer](https://github.com/your-repo-link):** Analyzing online comments for toxicity using RNN LSTM.
-- **[Warped Numbers Algorithm](https://github.com/your-repo-link):** A C++ algorithm for generating and analyzing mirror-like numbers.
-  
-### 💬 Connect with Me
-- **Email:** [triptip9901@gmail.com](mailto:triptip9901@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tripti-patel](https://www.linkedin.com/in/your-linkedin)
-  
-### 🤝 Let's Collaborate!
-I'm always open to new opportunities and collaborations. If you have an interesting project or just want to discuss algorithms, feel free to reach out!
+🛠 Tech Stack
 
----
 
-“**Write code that matters. Solve problems that impact.**” - Tripti Patel
 
-<!--
-**T-ripti/T-ripti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🏆 Achievements
+LeetCode: Solved 200+ problems, Contest Rating: 1603
+HackerRank:
+🌟 C++ (5★)
+🌟 Python (4★)
+🌟 Problem Solving (4★)
+Coding Ninjas: Solved 800+ coding problems
+🚀 Projects
+Project Name	Tech Stack	Link
+Toxic Comment Analyzer	Python, TensorFlow/Keras	GitHub
+Movie Recommendation System	Python, Pandas, Scikit-Learn	GitHub
+Snake Game	Python	GitHub
+Room Booking System	C++, OOP, Data Structures	GitHub
+Calculator Application	Python (Tkinter)	GitHub
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=T-ripti&show_icons=true&theme=tokyonight" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-ripti&theme=tokyonight" width="48%"> </p>
+🌟 Education
+Master of Computer Applications (MCA)
+Madan Mohan Malaviya University of Technology, Gorakhpur
+📅 Nov 2022 - July 2024 | GPA: 8.72
+
+Bachelor of Science - Computer Science
+Microtek College of Management and Technology, Jaunpur
+📅 July 2018 - Sept 2021 | Percentage: 70.05%
+
+💼 Certifications
+Software Engineer Intern - HackerRank
+C++ and DSA Intern - Internship Studio
+Python Development Intern - CodeClause
+Java Tutorial for Beginners - Udemy
+💡 Fun Fact
+🧠 I believe “Every great developer begins as a great learner!”. Always excited to learn new skills and solve challenging problems.
